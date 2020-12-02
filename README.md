@@ -5,8 +5,8 @@
 
 ## INDICE:
 *Aquí trataremos los siguientes apartados:*
-1. [Introduccion.]()
-2. [Instalacion]()
+1. [Introduccion.](https://github.com/josemaa/nextcloud/blob/main/Introduccion.md)
+2. [Instalacion](https://github.com/josemaa/nextcloud/blob/main/Instalacion.md)
 3. [Acceso a NextCloud]()
 
 
